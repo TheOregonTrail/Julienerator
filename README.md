@@ -5,4 +5,4 @@
 
 ## Example
 
-[](src/julia_set.png)
+![](src/julia_set.png)
